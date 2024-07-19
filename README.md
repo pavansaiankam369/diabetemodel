@@ -1,4 +1,3 @@
-Sure! Here is a README for the provided code:
 
 # Diabetes Prediction Model
 
